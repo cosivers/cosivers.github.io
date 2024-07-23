@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cosivers.github.io/sitemap
+Sitemap: https://cosivers.github.io/app/sitemap
+Sitemap: https://cosivers.github.io/assets/sitemap
+Sitemap: https://cosivers.github.io/css/sitemap
+Sitemap: https://cosivers.github.io/includes/sitemap
+Sitemap: https://cosivers.github.io/item/sitemap
+Sitemap: https://cosivers.github.io/src/sitemap
